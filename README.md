@@ -1,5 +1,3 @@
-# didactic-parakeet
-Smart Shopping List
 shopping_list = {}
 
 while True:
